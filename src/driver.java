@@ -3,7 +3,7 @@ import service.InventoryService;
 import service.impl.InventoryServiceImpl;
 import java.util.*;
 
-public class Main {
+public class driver {
     public static void main(String[] args) {
         InventoryService service = new InventoryServiceImpl();
 
